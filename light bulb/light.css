@@ -1,0 +1,12 @@
+img{
+    height: 20rem;
+
+}
+button{
+    padding: 1rem;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}

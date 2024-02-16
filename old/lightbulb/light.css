@@ -1,0 +1,10 @@
+img{
+    height: 15rem;
+}
+button{
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: blueviolet;
+    border: none;
+    color: white;
+}
