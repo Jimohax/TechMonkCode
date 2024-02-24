@@ -6,7 +6,7 @@ function turnOn() {
 function turnOff() {
 	bulb.src = "LightBulbOff.jpg";
 }
-
+P
 function lightBulb(flip) {
     
     if (flip > 0){
